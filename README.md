@@ -1,4 +1,16 @@
 # แอปพลิเคชัน จัดสเปคคอม [One Spec]
+
+<table>
+  <tr>
+    <td>
+<img src="https://raw.githubusercontent.com/arafarn12/onespec_app/master/src/assets/imgs/cover1.png" width="300" height="533">
+    </td>
+    <td>
+<img src="https://raw.githubusercontent.com/arafarn12/onespec_app/master/src/assets/imgs/cover2.png" width="300" height="533">
+    </td>
+  </tr>
+  </table>
+
 ### โปรแกรมที่จำเป็นต้องมี
 - [NodeJS](https://nodejs.org/en/)
 - [Visual Studio Code](https://code.visualstudio.com/)
