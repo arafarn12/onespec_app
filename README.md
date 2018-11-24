@@ -4,7 +4,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Android Studio](https://developer.android.com/studio/)
 
-## ทดสอบแอปพลิเคชัน ผ่านหน้าเว็บ
+**ทดสอบแอปพลิเคชัน** ผ่านหน้าเว็บ
 - เปิด Project ด้วย Visual Studio Code
 - เปิด Terminal
 - พิมพ์คำสั่ง
@@ -14,7 +14,7 @@ ionic serve
 
 
 
-## ทดสอบแอปพลิเคชัน ผ่าน Emulator
+**ทดสอบแอปพลิเคชัน** ผ่าน Emulator
 - เปิด Project ด้วย Visual Studio Code
 - เปิด Terminal
 - เปิดโปรแกรม Android Studio
@@ -24,7 +24,7 @@ ionic serve
 ionic cordova run android
 ```
 
-## ทดสอบแอปพลิเคชัน บน Device จริง
+**ทดสอบแอปพลิเคชัน** บน Device จริง
 - เปิด Project ด้วย Visual Studio Code
 - เปิด Terminal
 - เสียบสาย USB กับ Device
